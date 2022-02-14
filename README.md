@@ -11,3 +11,4 @@ Each codeword generator follows the same generic principle of taking a list of a
 * JavaScript
 * PowerShell
 * Python 
+* Perl
