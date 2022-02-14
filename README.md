@@ -1,4 +1,4 @@
-Codeword generators written in common programmling languages. Useful for IR or other projects.
+Codeword generators written in common programmling languages. Useful for any project that needs a codeword.
 
 # Action
 
