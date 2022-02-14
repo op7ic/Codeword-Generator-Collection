@@ -12,3 +12,24 @@ Each codeword generator follows the same generic principle of taking a list of a
 * PowerShell
 * Python 
 * Perl
+
+# Example Output
+
+```
+Choose a codename:
+AbsoluteChoir
+OccasionalStar
+GrouchyBriar
+ShockedWarp
+SickRetro
+SillySee
+FuzzyFable
+DescriptiveFur
+BackToe
+ShimmeringMimic
+HilariousLiter
+CanineScore
+GloomyStay
+YummyBends
+SpryToady
+```
