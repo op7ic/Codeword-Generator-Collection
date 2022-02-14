@@ -1,5 +1,4 @@
-
-Codeword generators written in common programmling languages
+Codeword generators written in common programmling languages. Useful for IR or other projects.
 
 # Action
 
@@ -8,12 +7,7 @@ Each codeword generator follows the same generic principle of taking a list of a
 # Supported Languages 
 
 * Bash
-* C 
-* C# 
-* C++
 * Go
 * JavaScript
-* Perl 
 * PowerShell
 * Python 
-* VBA
