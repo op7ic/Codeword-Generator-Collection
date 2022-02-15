@@ -12,6 +12,7 @@ Each codeword generator follows the same generic principle of taking a list of a
 * PowerShell
 * Python 
 * Perl
+* C++
 
 # Example Output
 
